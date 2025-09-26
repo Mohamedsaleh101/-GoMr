@@ -1,2 +1,3 @@
-# -GoMr
-تعدين حل المعادلات الرياضية في الكتلة اللامركزية 
+# Blockchain Learn Game
+
+MVP Scaffold for blockchain learning game.
